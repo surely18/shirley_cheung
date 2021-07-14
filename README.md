@@ -44,7 +44,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 
-### RISE
+#### RISE
 
 <!-- Add your details -->
 ##### LNCT Bhopal
